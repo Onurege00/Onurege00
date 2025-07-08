@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Onur Eğe</h1>
-<h3 align="center">Computer Engineer | fSotware Developer | AI and Data Science Enthusiast</h3>
+<h3 align="center">Computer Engineer | Sotware Developer | AI and Data Science Enthusiast</h3>
 
 ---
 
@@ -113,17 +113,20 @@
   - Link prediction using multiple Neo4j GDS models
   - Graph embeddings & hybrid ranking logic
 
-<!--
-**Onur-Ege/Onur-Ege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Customer Management System
 
-Here are some ideas to get you started:
+> A desktop-based customer management application built with Java, Swing and Hibernate ORM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Java Swing
+- **Backend**: Java, Hibernate
+- **Database**: Mysql
+- **Features**:
+  - Add, update, delete etc. customer records
+  - manage cart, basket
+  - Add, update, delete etc. product records
+  - user login
+  - Data persistence with Hibernate
+  - Clean and intuitive Swing GUI
+  - MVC architectural pattern
+  - and more ...
+- Repo [here](https://github.com/Onurege00/CustomerManagementSystem)
