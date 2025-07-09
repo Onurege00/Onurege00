@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Onur Eğe</h1>
-<h3 align="center">Computer Engineer | Sotware Developer | AI and Data Science Enthusiast</h3>
+<h3 align="center">Computer Engineer | Software Developer | AI and Data Science Enthusiast</h3>
 
 ---
 
@@ -19,8 +19,8 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a graduated **Computer Engineer** with strong interest in software development.
-- 💡 I enjoy building scalable APIs, designing intelligent recommendation engines, and working with graph databases.
+- 🎓 I'm a **Computer Engineer** with strong interest in software development.
+- 💡 I enjoy building APIs, designing intelligent recommendation engines, and working with graph databases.
 - 📊 Currently focused on **Spring Boot**, **Neo4j**, and **Graph Machine Learning**.
 
 ---
@@ -99,14 +99,14 @@
 
 > A full-stack movie recommendation system with advanced graph-based suggestions.
 
-- **Frontend**: Kotlin + Jetpack Compose  [here](https://github.com/Onurege00/MovieApp)
+- **Mobile App**: Kotlin + Jetpack Compose  [here](https://github.com/Onurege00/MovieApp)
 - **Backend**: Spring Boot with REST APIs [here](https://github.com/Onurege00/MovieApp-backend)
 - **Database**: Neo4j with millions of user interactions  
 - **Features**:
   - User authentication with Firebase
   - Favorites & star-based movie ratings
   - Movie-based recommendations via graph data science and ml
-  - User-based collaborative filtering on the home screen
+  - User-based collaborative filtering 
   - TMDb API integration for movie metadata
   - and more ...
 - **ML & GDS**: [here](https://github.com/Onurege00/graph-based-movie-analysis-with-neo4j)
@@ -121,12 +121,10 @@
 - **Backend**: Java, Hibernate
 - **Database**: Mysql
 - **Features**:
-  - Add, update, delete etc. customer records
+  - Add, update, delete etc. customer/product records
   - manage cart, basket
-  - Add, update, delete etc. product records
   - user login
   - Data persistence with Hibernate
   - Clean and intuitive Swing GUI
   - MVC architectural pattern
-  - and more ...
-- Repo [here](https://github.com/Onurege00/CustomerManagementSystem)
+  - and more ... [repo](https://github.com/Onurege00/CustomerManagementSystem)
